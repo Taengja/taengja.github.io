@@ -1,1 +1,1 @@
-# Blog.taengja.com
+# Blog
