@@ -4,5 +4,5 @@ title: About
 image: '/images/_about.jpg'
 ---
 
-##Hakuna Matata
+## Hakuna Matata
 What A Wonderful Phrase
