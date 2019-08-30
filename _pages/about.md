@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakuna Matata
+title: About
 image: '/images/pages/about.jpg'
 ---
 
