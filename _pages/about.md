@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/github-pages.jpg'
+image: '/images/about.jpg'
 ---
 
 ## Hakuna Matata
