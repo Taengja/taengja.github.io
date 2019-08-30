@@ -10,7 +10,7 @@ title:       Taengja
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://taengja.github.io/' # The base hostname & protocol for your site
+url:         'https://blog.taengja.com/' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
