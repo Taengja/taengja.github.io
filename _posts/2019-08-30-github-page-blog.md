@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Page
-tags: [frontpage, jekyll, blog]
+tags: [github, jekyll, blog]
 image: '/images/github-pages.jpg'
 ---
 
