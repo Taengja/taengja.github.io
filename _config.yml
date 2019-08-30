@@ -7,7 +7,7 @@
 
 # Site settings
 title:       Taengja
-email:       ''
+email:       'mail@taengja.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.taengja.com/' # The base hostname & protocol for your site
