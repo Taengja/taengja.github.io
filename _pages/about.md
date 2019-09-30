@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpg'
+image: '/assets/uploads/about.jpg'
 ---
 
 
