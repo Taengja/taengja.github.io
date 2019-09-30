@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Pages
-image: '/images/posts/github-pages.jpg'
+image: '/assets/uploads/github-pages.jpg'
 ---
 
 GitHub Pages에서 Jekyll 기반의 블로그 생성
