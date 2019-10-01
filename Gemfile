@@ -4,4 +4,4 @@ gem 'bundler'
 gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-tagging'
-gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-manager', group: :jekyll_plugins
